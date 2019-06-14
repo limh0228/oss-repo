@@ -3,7 +3,7 @@
 # Part 1
 
 ## Name
-> Hananh Lim
+> Hannah Lim
 
 ## Photo
 ![photo of myself](me.jpg)
