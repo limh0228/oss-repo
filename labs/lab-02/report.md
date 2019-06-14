@@ -18,6 +18,7 @@
 > https://github.com/rcos/CSCI-49XX-OpenSource/
 
 ## Branching diagrams and branch visualization
+> https://github.com/limh0228/oss-lab2part1
 ![gitk window](gitk.png)
 ![git log in terminal](git_log.png)
  
