@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/hannahlim/Documents/oss-repo/labs/lab-05/source/block.c
+stdio.h
+-
+string.h
+-
+../headers/block.h
+/Users/hannahlim/Documents/oss-repo/labs/lab-05/headers/block.h
+

@@ -1,0 +1,6 @@
+/Users/hannahlim/Documents/oss-repo/labs/lab-05/CMakeFiles/edit_cache.dir
+/Users/hannahlim/Documents/oss-repo/labs/lab-05/CMakeFiles/static_block.dir
+/Users/hannahlim/Documents/oss-repo/labs/lab-05/CMakeFiles/dynamic_block.dir
+/Users/hannahlim/Documents/oss-repo/labs/lab-05/CMakeFiles/rebuild_cache.dir
+/Users/hannahlim/Documents/oss-repo/labs/lab-05/CMakeFiles/dynlib.dir
+/Users/hannahlim/Documents/oss-repo/labs/lab-05/CMakeFiles/staticlib.dir
