@@ -348,7 +348,7 @@ cmake_check_build_system:
 
 ### the relative size of the two executables
 
-![](la-la.png)
+![](ls-la.png)
 
 ### Results of running the program
 
