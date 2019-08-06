@@ -31,7 +31,5 @@
 
 [Step 5](Step13.png)
 
-## Observatory Page
-
 ## RPI Machines Map
 ### https://rcos.io/projects/gaskij/rpicampusmap/profile
